@@ -21,8 +21,8 @@ On client::
 
 Add this to ``~/.ssh/config``::
 
-  Host mikbull 
+  Host SERVER 
        HostName SERVER
-       Port 1022 
+       Port PORT 
        User USERNAME 
        IdentityFile ~/.ssh/SERVER-NAME.rsa 
