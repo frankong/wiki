@@ -21,7 +21,7 @@ On client::
 
 Add this to ``~/.ssh/config``::
 
-  Host SERVER 
+  Host SERVER-NAME
        HostName SERVER
        Port PORT 
        User USERNAME 
