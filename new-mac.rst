@@ -2,12 +2,12 @@ What to setup and install on a new Mac
 --------------------------------------
 
 - X-code command line tools: 
-
+            
     xcode-select --install
-    
-- Adblock Safari extension:
 
-  https://safari-extensions.apple.com/details/?id=com.betafish.adblockforsafari-UAMUU4S2D9
+- XQuartz:
+    
+  https://www.xquartz.org
   
 - emacs: 
 
@@ -24,3 +24,7 @@ What to setup and install on a new Mac
 - Slack: 
 
   https://itunes.apple.com/app/slack/id803453959&mt=12
+    
+- Adblock Safari extension:
+
+  https://safari-extensions.apple.com/details/?id=com.betafish.adblockforsafari-UAMUU4S2D9
