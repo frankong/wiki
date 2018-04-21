@@ -16,6 +16,10 @@ What to setup and install on a new Mac
 - .emacs.d: 
 
   https://github.com/frankong/.emacs.d
+  
+- Anaconda:
+
+  https://www.anaconda.com/download/#macos
 
 - DoublePane: 
 
